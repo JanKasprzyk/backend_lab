@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86015d3c-393a-4317-9a7b-56f2a52dae65" name="Changes" comment="zad1">
-      <change afterPath="$PROJECT_DIR$/src/lab1/zad2.java" afterDir="false" />
+    <list default="true" id="86015d3c-393a-4317-9a7b-56f2a52dae65" name="Changes" comment="zad2">
+      <change afterPath="$PROJECT_DIR$/src/lab1/zad3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       <recent name="D:\backend_lab1\src\Lab1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.zad2">
+  <component name="RunManager" selected="Application.zad3">
     <configuration name="lab1.zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab1.zad1" />
       <module name="backend_lab" />
@@ -60,6 +60,19 @@
     </configuration>
     <configuration name="zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab1.zad2" />
+      <module name="backend_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.zad3" />
       <module name="backend_lab" />
       <extension name="coverage">
         <pattern>
@@ -86,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zad3" />
         <item itemvalue="Application.zad2" />
         <item itemvalue="Application.lab1.zad1" />
       </list>
@@ -107,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656071615573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="zad2">
+      <created>1656077442225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656077442225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zad1" />
-    <option name="LAST_COMMIT_MESSAGE" value="zad1" />
+    <MESSAGE value="zad2" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad2" />
   </component>
 </project>
